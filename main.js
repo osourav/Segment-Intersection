@@ -13,3 +13,5 @@ const FPS = 2;
 const scale = 10;
 
 
+const x = 10000;
+
